@@ -1,0 +1,9 @@
+.value {
+  padding-left: 10px;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+tr:nth-child(3) td {
+  border-bottom: 4px double blue;
+}
